@@ -1,6 +1,22 @@
 # rfetch
 simple but fast fetchware alternative to neofetch, fastfetch, etc
 
+average times:
+```
+real	0m0.004s
+user	0m0.000s
+sys	0m0.004s
+```
+
+displays:
+   username@localhost
+   os/distro name
+   cpu model
+   kernel name & version
+   terminal
+   shell
+   window manager
+
 ## usage
 
 USAGE:
