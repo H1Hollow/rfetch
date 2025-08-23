@@ -1,11 +1,27 @@
 # rfetch
 simple but fast fetchware alternative to neofetch, fastfetch, etc
 
-average times:
+average times (on my system):
+
+rfetch:
 ```
-real	0m0.004s
-user	0m0.000s
-sys	0m0.004s
+real  0m0.004s
+user  0m0.000s
+sys   0m0.004s
+```
+
+fastfetch:
+```
+real  0m0.015s
+user  0m0.005s
+sys   0m0.010s
+```
+
+screenfetch:
+```
+real  0m1.462s
+user  0m0.949s
+sys   0m0.409s
 ```
 
 displays:
