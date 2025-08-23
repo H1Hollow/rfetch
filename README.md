@@ -24,7 +24,7 @@ user  0m0.949s
 sys   0m0.409s
 ```
 
-displays:
+## displays:
 
 `username@localhost`
    
