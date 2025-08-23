@@ -58,10 +58,9 @@ OPTIONS (optional):
     
 ## Examples
 
-example with arguments:
-
+example with arguments (rfetch --color "38;5;218" --spacing 0):
 ![scrn1](https://i.imgur.com/WoRYSjY.png)
 
-example with defaults:
+example with defaults (rfetch):
 
 ![scrn2](https://i.imgur.com/i3PKCmO.png)
