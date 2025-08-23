@@ -61,11 +61,18 @@ OPTIONS (optional):
 ## Examples
 
 example with arguments:
-```rfetch --color "38;5;218" --spacing 0)```
+```rfetch --config ./test.txt --color "38;5;218" --spacing 0```
 
-![scrn1](https://i.imgur.com/WoRYSjY.png)
+![scrn1](https://i.imgur.com/UL25zjJ.png)
 
 example with defaults:
 ```rfetch```
 
 ![scrn2](https://i.imgur.com/i3PKCmO.png)
+
+## Notes
+
+the test.txt file (with the ascii art used in the first screenshot) can be found here: 
+
+`https://pastebin.com/9wn1V5Rv`
+
