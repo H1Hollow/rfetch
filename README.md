@@ -1,6 +1,8 @@
 # rfetch
 simple but fast fetchware alternative to neofetch, fastfetch, etc
 
+(this should work on most unix like operating systems that follows the freeedesktop.org standard)
+
 ## average times (on my system):
 
 rfetch:
