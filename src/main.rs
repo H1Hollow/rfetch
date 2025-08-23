@@ -26,6 +26,7 @@ fn make_separator(length: usize, color_code: &str) -> String {
     format!("{}{}{}", color_code, "-".repeat(length), RESET_CODE)
 }
 
+// environment variable or default
 fn evod(key: &str, default: &str) -> String {
     std::env::var(key).unwrap_or_else(|_| default.to_string())
 }
