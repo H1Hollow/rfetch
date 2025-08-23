@@ -19,3 +19,10 @@ OPTIONS (optional):
     
 `-v, --version       print version`
     
+## Examples
+
+example with arguments:
+![scrn1](https://i.imgur.com/WoRYSjY.png)
+
+example with defaults:
+![scrn2](https://i.imgur.com/i3PKCmO.png)
