@@ -40,11 +40,9 @@ sys   0m0.409s
 
 `window manager`
 
-## usage
+## usage:
 
-USAGE:
-
-   `rfetch [OPTIONS]`
+`rfetch [OPTIONS]`
 
 OPTIONS (optional):
 
