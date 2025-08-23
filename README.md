@@ -5,17 +5,17 @@ simple but fast fetchware alternative to neofetch, fastfetch, etc
 
 USAGE:
 
-    rfetch [OPTIONS]
+   rfetch [OPTIONS]
 
 OPTIONS (optional):
 
-    --config <FILE>     path to text file containing ascii art
+   --config <FILE>     path to text file containing ascii art
     
-    --spacing <N>       spaces before ASCII art (0–255, default=3)
+   --spacing <N>       spaces before ASCII art (0–255, default=3)
     
-    --color <ANSI>      (e.g. 36, 1;36, 38;5;205)
+   --color <ANSI>      (e.g. 36, 1;36, 38;5;205)
     
-    -h, --help          print help
+   -h, --help          print help
     
-    -v, --version       print version
+   -v, --version       print version
     
