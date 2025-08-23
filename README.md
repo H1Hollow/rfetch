@@ -1,7 +1,7 @@
 # rfetch
 simple but fast fetchware alternative to neofetch, fastfetch, etc
 
-average times (on my system):
+## average times (on my system):
 
 rfetch:
 ```
