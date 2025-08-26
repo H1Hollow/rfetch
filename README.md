@@ -69,12 +69,12 @@ OPTIONS (optional):
 example with arguments:
 ```rfetch --config ./test.txt --color "38;5;218" --spacing 0```
 
-![scrn1](https://i.imgur.com/UL25zjJ.png)
+![scrn1](https://i.imgur.com/R0ZapC6.png)
 
 example with defaults:
 ```rfetch```
 
-![scrn2](https://i.imgur.com/i3PKCmO.png)
+![scrn2](https://i.imgur.com/Q2g5r2G.png)
 
 ## Notes
 
