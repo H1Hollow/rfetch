@@ -1,7 +1,7 @@
 # rfetch
 simple but fast fetchware alternative to neofetch, fastfetch, etc
 
-this project relys on x86 specific cpu instructions other archetictures like arm or risc-v are not supported
+this project relys on x86 specific cpu instructions other archeticture's like arm or risc-v are not supported
 
 (this should work on most x86/x86-64 unix like operating systems that follows the freeedesktop.org standard)
 
