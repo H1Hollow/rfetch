@@ -28,7 +28,7 @@ sys   0m0.409s
 
 ## displays:
 
-`username@localhost`
+`username@localhost@pc-model`
    
 `os/distro name`
    
@@ -41,6 +41,12 @@ sys   0m0.409s
 `shell`
 
 `window manager`
+
+`memory usage`
+
+`swap usage`
+
+`disk usage`
 
 ## usage:
 
